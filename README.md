@@ -42,3 +42,12 @@ If you have an urgent request, bug or need installation help, please contact me 
 ## [Installation instructions](http://eonasdan.github.io/bootstrap-datetimepicker/Installing/)
 
 ## [Change Log](http://eonasdan.github.io/bootstrap-datetimepicker/Changelog/)
+
+## Howto build
+
+Do the following to build a new release:
+* Install Node with npm from here https://nodejs.org/en/ e.g. Version 4.6.1
+* Run "npm install -g grunt-cli" to install grunt (only once)
+* Switch command line to project directory
+* Call "npm install"
+* Call "grunt build"
